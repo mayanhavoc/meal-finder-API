@@ -3,8 +3,11 @@
 }
 
 body {
-  background: #e94f37;
-  color: #ffffff;
+  background: url("images/meal-finderDB-unsplash.jpeg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: #000;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 0;
 }
